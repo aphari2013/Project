@@ -1,0 +1,121 @@
+.scrollable-element {
+    scrollbar-color: dark;
+  }
+#i1{
+    width: 40px;
+}
+.carousel{
+    /* height: 350px; */
+    /* width: 500px; */
+}
+.carousel-inner{
+    /* height: 350px; */
+}
+.navbar{
+    background-color: green;
+    text-decoration: black;
+}
+.navbar:hover{
+    background-color: green;
+}
+.carousel-inner{
+    display: flex;
+    position: relative;
+}
+.carousel-caption{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    /* background-color: rgb(10, 4, 4);
+    color: rgb(255, 255, 255); */
+    font-family: 'Press Start 2P', cursive;
+    /* margin-left: 450px; */
+    /* display: inline-block; */
+    /* align-items: flex-end; */
+    display: flex;
+    position: absolute;
+    left: 620px;
+    /* background-color: black; */
+
+}
+.card-img-top{
+    width: auto;
+    height: 250px;
+}
+.dis{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.carousel-caption:hover{
+    /* background-color: white; */
+    
+}
+#d1{
+    padding-top: 10px;
+}
+.h2{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(6, 66, 6);
+}
+.box{
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    margin-left: 44px;
+}
+.b-1{
+    /* display: inline-block; */
+    margin-right: 10px;
+    background-color: rgb(126, 26, 26);
+}
+.b-2{
+    /* display: inline-block; */
+    margin-right: 10px;
+    background-color: orange;
+}
+.b-3{
+    /* display: inline-block; */
+    margin-right: 10px;
+    background-color: rgb(8, 79, 8);
+    /* margin-top: -88px; */
+    /* margin-left: 290px; */
+}
+.b-4{
+    /* display: inline-block; */
+    margin-right: 10px;
+    background-color: rgb(202, 200, 200);
+    /* margin-left: 290px; */
+}
+#i2{
+    height: 420px;
+}
+#h3{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(112, 21, 21);
+}
+.journey{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.cont{
+    font-family: 'Press Start 2P', cursive;
+    
+}
+#h4{
+    color: rgb(250, 242, 242);
+    background-color: rgb(25, 134, 25);
+    font-family: 'Press Start 2P', cursive;
+}
+#jou{
+    color: rgb(84, 30, 12);
+}
+a{
+    color: black;
+}
+#h5{
+    color: rgb(123, 26, 26);
+}
+#b2{
+   margin: auto;
+align-items: center;
+}
